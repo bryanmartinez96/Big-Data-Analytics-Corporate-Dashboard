@@ -15,7 +15,7 @@ Built as part of the **Big Data & Data Analytics Diploma** at Fundación Univers
 
 ## 📸 Dashboard Preview
 
-![Corporate Registry Dashboard](dashboard_preview.png)
+![Corporate Registry Dashboard](Dashboard.png)
 
 **Key KPIs displayed:**
 - 461K total registered companies
